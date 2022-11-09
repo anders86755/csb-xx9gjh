@@ -1,0 +1,1 @@
+{"version":3,"sources":["styles.css"],"names":[],"mappings":"AAAA,KACE,QAAS,CACT,SACF,CACA,KACE,iBAAkB,CAClB,KAAM,CACN,QAAS,CACT,UACF","file":"styles.37effcc8.css","sourceRoot":"..","sourcesContent":["body {\n  margin: 0;\n  padding: 0;\n}\n#map {\n  position: absolute;\n  top: 0;\n  bottom: 0;\n  width: 100%;\n}\n"]}
